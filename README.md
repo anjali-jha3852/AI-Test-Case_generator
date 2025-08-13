@@ -28,5 +28,8 @@ This is a full-stack mock application that simulates generating automated test c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anjali-jha3852/Your-Repo-Name.git
-   cd Your-Repo-Name
+   git clone https://github.com/anjali-jha3852/Your-Repo-Name.git ex.(anjali-jha3852)
+   cd Your-Repo-Name ex(Test-Case-Backend)
+
+   
+
